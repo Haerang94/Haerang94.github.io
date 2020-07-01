@@ -1,6 +1,6 @@
 ---
-title: Post with Header Image
-tags: TeXt
+title: 우아한 형제들
+tags: 우아한형제들
 article_header:
   type: cover
   image:
